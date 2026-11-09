@@ -43,13 +43,13 @@
 
 ---
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+⚡ GitHub Stats ⚡
 
 <p align="center">
-  <img width="420" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Mohamed-Bakr1&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
-  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=Mohamed-Bakr1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="420" src="https://streak-stats.demolab.com?user=Mohamed-Bakr1&theme=react&border_radius=10&timezone=Africa%2FCairo" alt="GitHub Streak" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Bakr1&count_private=true&include_all_commits=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img width="350" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Mohamed-Bakr1&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Bakr1&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </p>
